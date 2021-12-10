@@ -1,0 +1,11 @@
+getting training and testing data
+Built team dataframe
+Built player data
+Normalized data
+initialized trainable data
+Created PBPDatabase
+Created PBPDatabase
+Selected model 2
+We are running Model 2 : for 300 num of episodes
+Beginning training model 2
+val
